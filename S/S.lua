@@ -1,6 +1,6 @@
 ESX = nil
 
-local logit = "https://discordapp.com/api/webhooks/1003447093307912282/n8iYxo9EQ2DZ3QfDe3AzLhmcnyPv4vQpQMpTt6ObpjkUmPUd6LyiRAUmD1QIdzE10p4B"
+local logit = "webhook"
 
 Itemit = {
     "lfish"
